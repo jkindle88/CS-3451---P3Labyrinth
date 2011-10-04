@@ -19,6 +19,8 @@ boolean go = false;             // track when the game has started
 boolean win = false;
 boolean threeD = false;
 
+this is a gamebreaking change.  testing github version control.
+
 String title ="CS3451 Fall 2011, Project P3 - Enter the Labyrinth", // text that will be displayed in the sketch window
        name ="Joe Kindle", 
        help="click to add points, ' ' to restart, 'b' to place the ball, 'g' to start the game, 's' to save, 'l' to load";
