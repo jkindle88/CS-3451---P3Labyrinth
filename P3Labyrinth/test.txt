@@ -1,0 +1,2 @@
+N = U(C,P)          - C is the center, P is the colision point
+W = V - 2*(VdotN)*N - new velocity after colision
